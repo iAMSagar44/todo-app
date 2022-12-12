@@ -1,0 +1,7 @@
+{
+    "/users/1/todos": "/todos1",
+    "/users/2/todos": "/todos2",
+    "/users/1/todos/:id": "/todos1/:id",
+    "/users/2/todos/:id": "/todos2/:id"
+  }
+  
