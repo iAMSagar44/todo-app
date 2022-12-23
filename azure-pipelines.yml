@@ -25,4 +25,4 @@ steps:
     targetType: 'inline'
     script: |
       # Write your commands here
-      echo 'Build Complete'
+      echo 'Build Complete!'
