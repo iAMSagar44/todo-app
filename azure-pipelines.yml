@@ -26,3 +26,8 @@ steps:
     script: |
       # Write your commands here
       echo 'Build Complete!'
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'todo_app'
+    publishLocation: 'Container'
