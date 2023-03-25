@@ -1,9 +1,5 @@
 # Full-Stack Application with React, Spring Boot, and MySQL
 
-I have been building a lot of tutorials on how to get started with Spring Security. In almost all of these tutorials, I have focused on the backend with Spring Boot and Spring Security.
-
-
-I have not really talked about the frontend. In this tutorial, I will show you how to build a full-stack application with Spring Boot, Spring Security, and React.js. The same concepts would apply no matter what frontend framework you are using.
 
 ## Getting Started
 
